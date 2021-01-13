@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138923847217",
+    "project_id": "fir-auth-30ef0",
+    "storage_bucket": "fir-auth-30ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138923847217:android:c0691b7509f53eb70eaf10",
+        "android_client_info": {
+          "package_name": "com.example.mywallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138923847217-lu9hian3fa4ud2fq4ip8va0nhlakclkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mywallet",
+            "certificate_hash": "e2849fa61d4783574772ca795969568eec1c2770"
+          }
+        },
+        {
+          "client_id": "138923847217-mp2us7fh20l70dimmf5b5el253qau1mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhZljs0gLquK7kk18J-6ZzJSR3sCn4ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138923847217-mp2us7fh20l70dimmf5b5el253qau1mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

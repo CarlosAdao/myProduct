@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My wallet</string>
+    <string name="til_email">E-mail</string>
+    <string name="til_password">Password</string>
+    <string name="btn_login">Entrar</string>
+    <string name="tv_info">Não tem conta? Cadastre-se</string>
+    <string name="tv_register">Cadastrar</string>
+    <string name="tv_info2">Já tem conta? Faça login.</string>
+</resources>
